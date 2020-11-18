@@ -10,6 +10,7 @@
 | is ready to receive HTTP / Console requests from the environment.
 |
 */
+//require_once ( 'db/config.php');
 
 $app = require __DIR__.'/../bootstrap/app.php';
 
